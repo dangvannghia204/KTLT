@@ -22,7 +22,7 @@ lớp tên lớp
 STT		HỌ VÀ TÊN		LỚP 
 <h4>Trong đó:</h4> 
 <li>tên lớp là lớp sinh viên đang theo học</li>
-<li><em>num1</em> là tên biến thuộc kiểu dữ liệu số nguyên</li>
+<li><b>num1</b> là tên biến thuộc kiểu dữ liệu số nguyên</li>
 <li>num2 là tên biến thuộc kiểu dữ liệu số thực</li>
 <h1>-----HẾT-----</h1>
 
