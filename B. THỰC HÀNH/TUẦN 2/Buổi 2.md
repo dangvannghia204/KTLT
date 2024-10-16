@@ -18,9 +18,9 @@
 <li>Nhập dữ liệu từ bàn phím, sau đó xuất ra màn hình và xuống dòng:</li> 
 Xin chào các bạn tân sinh viên
 lớp tên lớp
-- Nhập dữ liệu từ bàn phím, sau đó xuất ra màn hình:
+<li>Nhập dữ liệu từ bàn phím, sau đó xuất ra màn hình:</li>
 STT		HỌ VÀ TÊN		LỚP 
-Trong đó: 
+<h6>Trong đó:</h6> 
 - tên lớp là lớp sinh viên đang theo học
 - num1 là tên biến thuộc kiểu dữ liệu số nguyên
 - num2 là tên biến thuộc kiểu dữ liệu số thực
