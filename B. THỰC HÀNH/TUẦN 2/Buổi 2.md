@@ -1,4 +1,4 @@
-<h1><center>NỘI DUNG</center></h1>
+<center><h1>YÊU CẦU</h1></center>
 **2.1. Tạo dự án, gói, lớp, file và đặt tên như sau:**
 - Tên dự án: HoTenSinhVien
 - Tên gói: buoi2
