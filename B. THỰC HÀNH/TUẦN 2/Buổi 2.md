@@ -19,7 +19,7 @@
 <i>Xin chào các bạn tân sinh viên<br>lớp <b><mark>tên lớp</mark></b></br></i>
 <li>Nhập dữ liệu từ bàn phím, sau đó xuất ra màn hình:</li>
 <mark>STT                   HỌ VÀ TÊN                     LỚP</mark>
-<h5><b>Trong đó:</b></h5> 
+<h6><b>Trong đó:</b></h6> 
 <li><mark><i><b>tên lớp</b></i></mark> là lớp sinh viên đang theo học</li>
 <li><mark><i><b>num1</b></i></mark> là tên biến thuộc kiểu dữ liệu số nguyên</li>
 <li><b><i><mark>num2</mark></i></b> là tên biến thuộc kiểu dữ liệu số thực</li>
