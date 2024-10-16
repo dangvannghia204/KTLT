@@ -1,5 +1,5 @@
 <h1>NỘI DUNG & HƯỚNG DẪN</h1>
-A. CƠ BẢN
+<h3>A. CƠ BẢN</h3>
 Bài 4.1. Khai báo và khởi tạo mảng int arr[] = {3, 5, 8, 10, 14, 25}. Hãy viết chương trình hiển thị các phần tử của mảng arr.
 public class Buoi4 {
 
