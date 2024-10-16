@@ -7,9 +7,9 @@
 <p></p>
 <b><em>Ví dụ: Sinh viên Nguyễn Văn An có mã số sinh viên 12345 thì đặt tên như sau:</em></b>
 <li>Tên dự án: <i><mark>NguyenVanAn</mark></i></li>
-<li>Tên gói: buoi2</li>
-<li>Tên lớp: An12345</li>
-<li>Tên file: An12345.java</li>
+<li>Tên gói: <i><mark>buoi2</mark></i></li>
+<li>Tên lớp: <i><mark>An12345</mark></i></li>
+<li>Tên file: <i><mark>An12345.java</mark></i></li>
 <h3>2.2. Viết chương trình thực hiện các yêu cầu sau:</h3>
 <li>Xuất ra màn hình: <i>Xin chào các bạn tân sinh viên lớp <b><mark>tên lớp</mark></b></i></li>
 <li>Xuất ra màn hình: <i>Xin chào các bạn tân sinh viên lớp <b><mark>“tên lớp”</mark></b></i></li>
