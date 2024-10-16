@@ -9,7 +9,7 @@
 - Tên gói: buoi2
 - Tên lớp: An12345
 - Tên file: An12345.java
-2.2. Viết chương trình thực hiện các yêu cầu sau:
+<h4>2.2. Viết chương trình thực hiện các yêu cầu sau:</h4>
 - Xuất ra màn hình: Xin chào các bạn tân sinh viên lớp tên lớp
 - Xuất ra màn hình: Xin chào các bạn tân sinh viên lớp “tên lớp”
 - Xuất ra màn hình: Giá trị của num1 là: 10
