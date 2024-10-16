@@ -6,7 +6,7 @@
 <li>Tên file: Tenmssv.java</li>
 <p></p>
 <b><em>Ví dụ: Sinh viên Nguyễn Văn An có mã số sinh viên 12345 thì đặt tên như sau:</em></b>
-<li>Tên dự án: NguyenVanAn</li>
+<li>Tên dự án: <i><mark>NguyenVanAn</mark></i></li>
 <li>Tên gói: buoi2</li>
 <li>Tên lớp: An12345</li>
 <li>Tên file: An12345.java</li>
