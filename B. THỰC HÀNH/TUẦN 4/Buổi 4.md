@@ -47,15 +47,18 @@ public class Buoi4 {
 	</tr>
 	<tr>	
 	<td>0</td>
+	<td>arr1[0][0]</td>
+	<td>arr1[0][1]</td>
+	<td>arr1[0][2]</td>
+	</tr>
+ 	<tr>	
 	<td>1</td>
-	<td>3</td>
-	<td>3</td>
+	<td>arr1[1][0]</td>
+	<td>arr1[1][1]</td>
+	<td>arr1[1][2]</td>
 	</tr>
 
 </table>
-&nbsp; 0 &nbsp; 1 &nbsp; 2
-<br>&nbsp; 0 &nbsp; arr1[0][0] &nbsp; arr1[0][1] &nbsp; arr1[0][2]</br>
-<br>&nbsp; 1 &nbsp; arr1[1][0] &nbsp; arr1[1][1] &nbsp; arr1[1][2]</br>
 public class Buoi4 {
 
 	public static void bai4_3() {
