@@ -20,7 +20,7 @@ Xin chào các bạn tân sinh viên
 lớp tên lớp
 <li>Nhập dữ liệu từ bàn phím, sau đó xuất ra màn hình:</li>
 STT		HỌ VÀ TÊN		LỚP 
-<h5>Trong đó:</h5> 
+<h4>Trong đó:</h4> 
 <li>tên lớp là lớp sinh viên đang theo học</li>
 <li>num1 là tên biến thuộc kiểu dữ liệu số nguyên</li>
 <li>num2 là tên biến thuộc kiểu dữ liệu số thực</li>
