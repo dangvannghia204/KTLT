@@ -40,13 +40,15 @@ public class Buoi4 {
 <h4>Bài 4.3. Khai báo và khởi tạo mảng int arr1[][] = new int[2][3]. Hãy viết chương trình hiển thị các phần tử của mảng arr1.</h4>
 <table>
 	<tr>	
+	<td></td>
+	<td>0</td>
 	<td>1</td>
 	<td>2</td>
-	<td>3</td>
 	</tr>
 	<tr>	
+	<td>0</td>
 	<td>1</td>
-	<td>2</td>
+	<td>3</td>
 	<td>3</td>
 	</tr>
 
