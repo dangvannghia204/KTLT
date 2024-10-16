@@ -89,5 +89,5 @@ public class Buoi4 {
 
 <h3>B. NÂNG CAO</h3>
 Hãy code 4 bài tập nêu ở trên sử dụng thông qua vòng lặp (tham khảo nội dung nêu ở Chương 6 của tuần 8 từ slide 20).
------HẾT-----
+<h3>-----HẾT-----<h3>
 
