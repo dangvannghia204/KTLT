@@ -1,5 +1,5 @@
-<center><h1>YÊU CẦU</h1></center>
-**2.1. Tạo dự án, gói, lớp, file và đặt tên như sau:**
+<h1>YÊU CẦU</h1>
+<h3>2.1. Tạo dự án, gói, lớp, file và đặt tên như sau:</h3>
 - Tên dự án: HoTenSinhVien
 - Tên gói: buoi2
 - Tên lớp: Tenmssv
