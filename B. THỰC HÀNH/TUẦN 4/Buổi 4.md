@@ -44,6 +44,11 @@ public class Buoi4 {
 	<tr>2</tr>
 	<tr>3</tr>
 	</td>
+ 	<td>	
+	<tr>1</tr>
+	<tr>2</tr>
+	<tr>3</tr>
+	</td>
 
 </tb>
 &nbsp; 0 &nbsp; 1 &nbsp; 2
