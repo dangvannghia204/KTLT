@@ -38,9 +38,9 @@ public class Buoi4 {
 	}
 }
 <h4>Bài 4.3. Khai báo và khởi tạo mảng int arr1[][] = new int[2][3]. Hãy viết chương trình hiển thị các phần tử của mảng arr1.</h4>
-arr1 &nbsp; 0		1		2
-	0	arr1[0][0]	arr1[0][1]	arr1[0][2]
-	1	arr1[1][0]	arr1[1][1]	arr1[1][2]
+arr1 &nbsp; 0 &nbsp; 1 &nbsp; 2
+&nbsp; 0 &nbsp; arr1[0][0] &nbsp; arr1[0][1] &nbsp; arr1[0][2]
+&nbsp; 1 &nbsp; arr1[1][0] &nbsp; arr1[1][1] &nbsp; arr1[1][2]
 public class Buoi4 {
 
 	public static void bai4_3() {
@@ -62,10 +62,10 @@ public class Buoi4 {
  
 <h4>Bài 4.4. Khai báo và khởi tạo mảng int arr2[][] = {{1,2,3},{4,5,6},{7}}. Hãy viết chương trình hiển thị các phần tử của mảng arr2.</h4>
 
-arr2		0	1	2
-	0	1	2	3
-      	1	4	5	6
-      	2	7		
+arr2 &nbsp; 0 &nbsp; 1 &nbsp; 2
+&nbsp; 0 &nbsp; 1 &nbsp; 2 &nbsp; 3
+&nbsp; 1 &nbsp; 4 &nbsp; 5 &nbsp; 6
+&nbsp; 2 &nbsp; 7		
 
 public class Buoi4 {
 
