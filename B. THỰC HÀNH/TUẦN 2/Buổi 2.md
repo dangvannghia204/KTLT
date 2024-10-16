@@ -4,7 +4,7 @@
 <li>Tên gói: buoi2</li>
 <li>Tên lớp: Tenmssv</li>
 <li>Tên file: Tenmssv.java</li>
-<h5>Ví dụ: Sinh viên Nguyễn Văn An có mã số sinh viên 12345 thì đặt tên như sau:</h5>
+<h4>Ví dụ: Sinh viên Nguyễn Văn An có mã số sinh viên 12345 thì đặt tên như sau:</h4>
 - Tên dự án: NguyenVanAn
 - Tên gói: buoi2
 - Tên lớp: An12345
