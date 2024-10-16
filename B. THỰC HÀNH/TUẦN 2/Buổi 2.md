@@ -17,7 +17,7 @@
 <li>Xuất ra màn hình: Giá trị của num2 là: 5.5</li>
 <li>Nhập dữ liệu từ bàn phím, sau đó xuất ra màn hình và xuống dòng:</li> 
 Xin chào các bạn tân sinh viên
-lớp tên lớp
+<p>lớp tên lớp</p>
 <li>Nhập dữ liệu từ bàn phím, sau đó xuất ra màn hình:</li>
 STT		HỌ VÀ TÊN		LỚP 
 <h4>Trong đó:</h4> 
