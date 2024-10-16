@@ -21,7 +21,7 @@ lớp tên lớp
 <li>Nhập dữ liệu từ bàn phím, sau đó xuất ra màn hình:</li>
 STT		HỌ VÀ TÊN		LỚP 
 <h4>Trong đó:</h4> 
-<li>tên lớp là lớp sinh viên đang theo học</li>
+<li><mark><i><b>tên lớp</b></i></mark> là lớp sinh viên đang theo học</li>
 <li><mark><i><b>num1</b></i></mark> là tên biến thuộc kiểu dữ liệu số nguyên</li>
 <li><b><i><mark>num2</mark></i></b> là tên biến thuộc kiểu dữ liệu số thực</li>
 <h1>-----HẾT-----</h1>
