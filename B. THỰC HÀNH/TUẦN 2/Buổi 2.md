@@ -1,6 +1,6 @@
 <h1>YÊU CẦU</h1>
 <h3>2.1. Tạo dự án, gói, lớp, file và đặt tên như sau:</h3>
-- Tên dự án: HoTenSinhVien
+<span>Tên dự án: HoTenSinhVien</span>
 - Tên gói: buoi2
 - Tên lớp: Tenmssv
 - Tên file: Tenmssv.java
