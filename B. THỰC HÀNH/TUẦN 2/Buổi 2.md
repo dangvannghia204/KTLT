@@ -5,10 +5,10 @@
 <li>Tên lớp: Tenmssv</li>
 <li>Tên file: Tenmssv.java</li>
 <h4>Ví dụ: Sinh viên Nguyễn Văn An có mã số sinh viên 12345 thì đặt tên như sau:</h4>
-- Tên dự án: NguyenVanAn
-- Tên gói: buoi2
-- Tên lớp: An12345
-- Tên file: An12345.java
+<li>Tên dự án: NguyenVanAn</li>
+<li>Tên gói: buoi2</li>
+<li>Tên lớp: An12345</li>
+<li>Tên file: An12345.java</li>
 <h4>2.2. Viết chương trình thực hiện các yêu cầu sau:</h4>
 - Xuất ra màn hình: Xin chào các bạn tân sinh viên lớp tên lớp
 - Xuất ra màn hình: Xin chào các bạn tân sinh viên lớp “tên lớp”
