@@ -16,8 +16,8 @@
 <li>Xuất ra màn hình: <i>Giá trị của <mark>num1</mark> là 10</i></li>
 <li>Xuất ra màn hình: <i>Giá trị của <mark>num2</mark> là 5.5</i></li>
 <li>Nhập dữ liệu từ bàn phím, sau đó xuất ra màn hình và xuống dòng:</li> 
-Xin chào các bạn tân sinh viên
-<br>lớp <mark><b><i>tên lớp</i></b></mark></br>
+<i>Xin chào các bạn tân sinh viên
+<br>lớp <mark><b>tên lớp</b></mark></br></i>
 <li>Nhập dữ liệu từ bàn phím, sau đó xuất ra màn hình:</li>
 STT		HỌ VÀ TÊN		LỚP 
 <h4>Trong đó:</h4> 
