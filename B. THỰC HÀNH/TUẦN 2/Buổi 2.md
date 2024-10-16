@@ -18,7 +18,7 @@
 <li>Nhập dữ liệu từ bàn phím, sau đó xuất ra màn hình và xuống dòng:</li> 
 <i>Xin chào các bạn tân sinh viên<br>lớp <b><mark>tên lớp</mark></b></br></i>
 <li>Nhập dữ liệu từ bàn phím, sau đó xuất ra màn hình:</li>
-<mark>STT                   HỌ VÀ TÊN                     LỚP</mark>
+<tab><mark>STT                   HỌ VÀ TÊN                     LỚP</mark></tab>
 <h4><b>Trong đó:</b></h4> 
 <li><mark><i><b>tên lớp</b></i></mark> là lớp sinh viên đang theo học</li>
 <li><mark><i><b>num1</b></i></mark> là tên biến thuộc kiểu dữ liệu số nguyên</li>
