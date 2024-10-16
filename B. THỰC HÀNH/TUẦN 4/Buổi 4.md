@@ -39,9 +39,9 @@ public class Buoi4 {
 }
 <h4>Bài 4.3. Khai báo và khởi tạo mảng int arr1[][] = new int[2][3]. Hãy viết chương trình hiển thị các phần tử của mảng arr1.</h4>
 <tb>
-	<tr></tr>
-	<tr></tr>
-	<tr></tr>
+	<tr>1</tr>
+	<tr>2</tr>
+	<tr>3</tr>
 </tb>
 &nbsp; 0 &nbsp; 1 &nbsp; 2
 <br>&nbsp; 0 &nbsp; arr1[0][0] &nbsp; arr1[0][1] &nbsp; arr1[0][2]</br>
