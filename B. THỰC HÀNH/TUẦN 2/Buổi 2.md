@@ -12,11 +12,11 @@
 <li>Tên file: An12345.java</li>
 <h3>2.2. Viết chương trình thực hiện các yêu cầu sau:</h3>
 <li>Xuất ra màn hình: <i>Xin chào các bạn tân sinh viên lớp <mark><b>tên lớp</b</mark></i></li>
-<li>Xuất ra màn hình: <i>Xin chào các bạn tân sinh viên lớp <mark><b>“tên lớp”</b></mark></i></li>
-<li>Xuất ra màn hình: <i>Giá trị của <mark><b>num1</b></mark> là 10</i></li>
-<li>Xuất ra màn hình: <i>Giá trị của <mark><b>num2</b></mark> là 5.5</i></li>
+<li>Xuất ra màn hình: <i>Xin chào các bạn tân sinh viên lớp <mark>“tên lớp”</mark></i></li>
+<li>Xuất ra màn hình: <i>Giá trị của <mark>num1</mark> là 10</i></li>
+<li>Xuất ra màn hình: <i>Giá trị của <mark>num2</mark> là 5.5</i></li>
 <li>Nhập dữ liệu từ bàn phím, sau đó xuất ra màn hình và xuống dòng:</li> 
-<i>Xin chào các bạn tân sinh viên<br>lớp <mark><b>tên lớp</b></mark></br></i>
+<i>Xin chào các bạn tân sinh viên<br>lớp <mark>tên lớp</mark></br></i>
 <li>Nhập dữ liệu từ bàn phím, sau đó xuất ra màn hình:</li>
 STT		HỌ VÀ TÊN		LỚP 
 <br><b>Trong đó:</b></br> 
