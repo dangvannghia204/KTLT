@@ -79,11 +79,6 @@ public class Buoi4 {
 }
  
 <h4>Bài 4.4. Khai báo và khởi tạo mảng int arr2[][] = {{1,2,3},{4,5,6},{7}}. Hãy viết chương trình hiển thị các phần tử của mảng arr2.</h4>
-
-&nbsp; 0 &nbsp; 1 &nbsp; 2
-&nbsp; 0 &nbsp; 1 &nbsp; 2 &nbsp; 3
-&nbsp; 1 &nbsp; 4 &nbsp; 5 &nbsp; 6
-&nbsp; 2 &nbsp; 7
 <table>
 	<tr>	
 	<td></td>
@@ -109,7 +104,6 @@ public class Buoi4 {
 	<td></td>
 	<td></td>
 	</tr>
-
 </table>
 
 public class Buoi4 {
