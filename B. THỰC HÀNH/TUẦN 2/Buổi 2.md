@@ -11,7 +11,7 @@
 <li>Tên lớp: An12345</li>
 <li>Tên file: An12345.java</li>
 <h3>2.2. Viết chương trình thực hiện các yêu cầu sau:</h3>
-- Xuất ra màn hình: Xin chào các bạn tân sinh viên lớp tên lớp
+# Xuất ra màn hình: Xin chào các bạn tân sinh viên lớp tên lớp
 - Xuất ra màn hình: Xin chào các bạn tân sinh viên lớp “tên lớp”
 - Xuất ra màn hình: Giá trị của num1 là: 10
 - Xuất ra màn hình: Giá trị của num2 là: 5.5
