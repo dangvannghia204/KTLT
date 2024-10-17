@@ -9,8 +9,8 @@
 <li>Lớp</li>
 <li>Khoa</li> 
 <li>Địa chỉ</li>
-<h4>1. Nhập thông tin vào mã nguồn và hiển thị kết quả ra màn hình</h4>
-<h4>2. Nhập thông tin từ bàn phím và hiển thị kết quả ra màn hình</h4>
+<b>1. Nhập thông tin vào mã nguồn và hiển thị kết quả ra màn hình</b>
+<b>2. Nhập thông tin từ bàn phím và hiển thị kết quả ra màn hình</b>
 B. KẾT QUẢ THAM KHẢO
 -----THÔNG TIN SINH VIÊN-----
 Mã sinh viên: 12345      
