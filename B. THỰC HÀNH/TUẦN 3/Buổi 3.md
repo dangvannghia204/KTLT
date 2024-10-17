@@ -1,5 +1,5 @@
 <h1>NỘI DUNG</h1>
-A. YÊU CẦU
+<h3>A. YÊU CẦU</h3>
 Viết chương trình hiển thị thông tin sinh viên gồm:
 - Mã sinh viên
 - Họ và tên
