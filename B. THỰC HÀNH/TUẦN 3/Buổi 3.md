@@ -11,7 +11,7 @@
 <li>Địa chỉ</li>
 <b>1. Nhập thông tin vào mã nguồn và hiển thị kết quả ra màn hình</b>
 <b><br>2. Nhập thông tin từ bàn phím và hiển thị kết quả ra màn hình</br></b>
-B. KẾT QUẢ THAM KHẢO
+<h3>B. KẾT QUẢ THAM KHẢO</h3>
 -----THÔNG TIN SINH VIÊN-----
 Mã sinh viên: 12345      
 Họ và tên: Nguyễn Văn An
@@ -22,7 +22,7 @@ Lớp: IT24B
 Khoa: Công nghệ thông tin
 Địa chỉ: Đà Nẵng
 -----HẾT----- 
-C. HƯỚNG DẪN
+<h3>C. HƯỚNG DẪN</h3>
 - Tạo dự án (project) với tên: HoTenSinhVien. Ví dụ: Sinh viên Nguyễn Văn An thì đặt tên dự án là NguyenVanAn
 - Tạo gói (package) với tên: buoi3. 
 - Tạo lớp (class) với tên: Tenmssv. Ví dụ: Sinh viên Nguyễn Văn An có ID 12345 thì đặt tên lớp là An12345
