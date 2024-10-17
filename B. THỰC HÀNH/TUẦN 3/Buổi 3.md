@@ -1,16 +1,16 @@
 <h1>NỘI DUNG</h1>
 <h3>A. YÊU CẦU</h3>
 <h3>Viết chương trình hiển thị thông tin sinh viên gồm:</h3>
-<ol>Mã sinh viên</ol>
-- Họ và tên
-- Ngày sinh
-- Tuổi
-- Giới tính (Nam: true, Nữ: false)
-- Lớp
-- Khoa
-- Địa chỉ
-1. Nhập thông tin vào mã nguồn và hiển thị kết quả ra màn hình
-2. Nhập thông tin từ bàn phím và hiển thị kết quả ra màn hình
+<li>Mã sinh viên</li>
+<li>Họ và tên</li>
+<li>Ngày sinh</li>
+<li>Tuổi</li>
+<li>Giới tính (Nam: true, Nữ: false)</li>
+<li>Lớp</li>
+<li>Khoa</li> 
+<li>Địa chỉ</li>
+<h4>1. Nhập thông tin vào mã nguồn và hiển thị kết quả ra màn hình</h4>
+<h4>2. Nhập thông tin từ bàn phím và hiển thị kết quả ra màn hình</h4>
 B. KẾT QUẢ THAM KHẢO
 -----THÔNG TIN SINH VIÊN-----
 Mã sinh viên: 12345      
