@@ -1,7 +1,7 @@
 <h1>NỘI DUNG</h1>
 <h3>A. YÊU CẦU</h3>
-Viết chương trình hiển thị thông tin sinh viên gồm:
-- Mã sinh viên
+<h3>Viết chương trình hiển thị thông tin sinh viên gồm:</h3>
+<ol>Mã sinh viên</ol>
 - Họ và tên
 - Ngày sinh
 - Tuổi
