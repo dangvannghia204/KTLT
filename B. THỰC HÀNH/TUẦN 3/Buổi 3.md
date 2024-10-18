@@ -9,6 +9,7 @@
 <li>Lớp</li>
 <li>Khoa</li> 
 <li>Địa chỉ</li>
+<p></p>
 <b>1. Nhập thông tin vào mã nguồn và hiển thị kết quả ra màn hình</b>
 <b><br>2. Nhập thông tin từ bàn phím và hiển thị kết quả ra màn hình</br></b>
 <h3>B. KẾT QUẢ THAM KHẢO</h3>
