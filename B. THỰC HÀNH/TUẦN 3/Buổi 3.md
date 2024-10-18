@@ -24,10 +24,10 @@
 <ol>Địa chỉ: Đà Nẵng</ol>
 -----HẾT----- 
 <h3>C. HƯỚNG DẪN</h3>
-<li>Tạo dự án (project) với tên: HoTenSinhVien</li>
-<li>Tạo gói (package) với tên: buoi3</li>
-<li>Tạo lớp (class) với tên: Tenmssv</li>
-<li>Tạo file với tên: Tenmssv.java</li>
+<li>Tạo dự án (project) với tên: <mark><i>HoTenSinhVien</i></mark></li>
+<li>Tạo gói (package) với tên: <mark><i>buoi3</i></mark></li>
+<li>Tạo lớp (class) với tên: <mark><i>Tenmssv</i></mark></li>
+<li>Tạo file với tên: <mark><i>Tenmssv.java</i></mark></li>
 <b><em>Ví dụ: Sinh viên Nguyễn Văn An có ID 12345 thì đặt tên như sau:</em></b>
 <li>Tên dự án: <mark><i>NguyenVanAn</i></mark></li> 
 <li>Tên gói: <mark><i>buoi3</i></mark></li>
