@@ -19,7 +19,7 @@ public class Buoi4 {
 	}
  
 }
-<h4>Bài 4.2. Khai báo và khởi tạo mảng String nguHanh[] = {“kim”, “mộc”, “thủy”, “hỏa”, “thổ”}. Hãy viết chương trình hiển thị các phần tử của mảng nguHanh.</h4>
+<h3>Bài 4.2. Khai báo và khởi tạo mảng String nguHanh[] = {“kim”, “mộc”, “thủy”, “hỏa”, “thổ”}. Hãy viết chương trình hiển thị các phần tử của mảng nguHanh.</h3>
 public class Buoi4 {
 
 	public static void bai4_2() {
@@ -37,7 +37,7 @@ public class Buoi4 {
 		bai4_2();
 	}
 }
-<h4>Bài 4.3. Khai báo và khởi tạo mảng int arr1[][] = new int[2][3]. Hãy viết chương trình hiển thị các phần tử của mảng arr1.</h4>
+<h3>Bài 4.3. Khai báo và khởi tạo mảng int arr1[][] = new int[2][3]. Hãy viết chương trình hiển thị các phần tử của mảng arr1.</h3>
 <table>
 	<tr>	
 	<td>arr1</td>
@@ -78,7 +78,7 @@ public class Buoi4 {
 	}
 }
  
-<h4>Bài 4.4. Khai báo và khởi tạo mảng int arr2[][] = {{1,2,3},{4,5,6},{7}}. Hãy viết chương trình hiển thị các phần tử của mảng arr2.</h4>
+<h3>Bài 4.4. Khai báo và khởi tạo mảng int arr2[][] = {{1,2,3},{4,5,6},{7}}. Hãy viết chương trình hiển thị các phần tử của mảng arr2.</h3>
 <table>
 	<tr>	
 	<td>arr2</td>
@@ -127,6 +127,6 @@ public class Buoi4 {
 }
 
 <h2>B. NÂNG CAO</h2>
-<H4>Hãy code 4 bài tập nêu ở trên sử dụng thông qua vòng lặp (tham khảo nội dung nêu ở Chương 6 của tuần 8 từ slide 20).</h4>
+<H3>Hãy code 4 bài tập nêu ở trên sử dụng thông qua vòng lặp (tham khảo nội dung nêu ở Chương 6 của tuần 8 từ slide 20).</h3>
 <h1>-----HẾT-----<h1>
 
