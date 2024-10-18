@@ -1,5 +1,5 @@
 <h1>NỘI DUNG & HƯỚNG DẪN</h1>
-<h3>A. CƠ BẢN</h3>
+<h2>A. CƠ BẢN</h2>
 <h4>Bài 4.1. Khai báo và khởi tạo mảng int arr[] = {3, 5, 8, 10, 14, 25}. Hãy viết chương trình hiển thị các phần tử của mảng arr.</h4>
 public class Buoi4 {
 
@@ -126,7 +126,7 @@ public class Buoi4 {
 	}
 }
 
-<h3>B. NÂNG CAO</h3>
+<h2>B. NÂNG CAO</h2>
 <H4>Hãy code 4 bài tập nêu ở trên sử dụng thông qua vòng lặp (tham khảo nội dung nêu ở Chương 6 của tuần 8 từ slide 20).</h4>
 <h1>-----HẾT-----<h1>
 
