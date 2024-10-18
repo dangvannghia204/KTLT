@@ -13,8 +13,8 @@
 <b><br>2. Nhập thông tin từ bàn phím và hiển thị kết quả ra màn hình</br></b>
 <h3>B. KẾT QUẢ THAM KHẢO</h3>
 -----THÔNG TIN SINH VIÊN-----
-Mã sinh viên: 12345      
-Họ và tên: Nguyễn Văn An
+<br>Mã sinh viên: 12345</br>      
+<br>Họ và tên: Nguyễn Văn An</br>
 Ngày sinh: 20/10/1990
 Tuổi: 30
 Giới tính: Nam
