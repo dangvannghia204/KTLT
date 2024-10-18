@@ -1,6 +1,6 @@
 <h1>NỘI DUNG</h1>
-<h3>A. YÊU CẦU</h3>
-<h3>Viết chương trình hiển thị thông tin sinh viên gồm:</h3>
+<h2>A. YÊU CẦU</h2>
+<h4>Viết chương trình hiển thị thông tin sinh viên gồm:</h4>
 <li>Mã sinh viên</li>
 <li>Họ và tên</li>
 <li>Ngày sinh</li>
@@ -11,7 +11,7 @@
 <li>Địa chỉ</li>
 <h4>1. Nhập thông tin vào mã nguồn và hiển thị kết quả ra màn hình</h4>
 <h4>2. Nhập thông tin từ bàn phím và hiển thị kết quả ra màn hình</h4>
-<h3>B. KẾT QUẢ THAM KHẢO</h3>
+<h2>B. KẾT QUẢ THAM KHẢO</h2>
 -----THÔNG TIN SINH VIÊN-----
 <ol>Mã sinh viên: 12345</ol>      
 <ol>Họ và tên: Nguyễn Văn An</ol>
@@ -22,7 +22,7 @@
 <ol>Khoa: Công nghệ thông tin</ol>
 <ol>Địa chỉ: Đà Nẵng</ol>
 -----HẾT----- 
-<h3>C. HƯỚNG DẪN</h3>
+<h2>C. HƯỚNG DẪN</h2>
 <li>Tạo dự án (project) với tên: <mark><i>HoTenSinhVien</i></mark></li>
 <li>Tạo gói (package) với tên: <mark><i>buoi3</i></mark></li>
 <li>Tạo lớp (class) với tên: <mark><i>Tenmssv</i></mark></li>
