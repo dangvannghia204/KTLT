@@ -2,7 +2,7 @@
 <h3>A. CƠ BẢN</h3>
 <h4>Bài 4.1. Khai báo và khởi tạo mảng int arr[] = {3, 5, 8, 10, 14, 25}. Hãy viết chương trình hiển thị các phần tử của mảng arr.</h4>
 public class Buoi4 {
-{
+
 	public static void bai4_1() {
 		int arr[] = {3, 5, 8, 10, 14, 25};
 		int cs=0;
@@ -17,7 +17,7 @@ public class Buoi4 {
 		// TODO Auto-generated method stub
 		bai4_1();
 	}
- }
+ 
 }
 <h4>Bài 4.2. Khai báo và khởi tạo mảng String nguHanh[] = {“kim”, “mộc”, “thủy”, “hỏa”, “thổ”}. Hãy viết chương trình hiển thị các phần tử của mảng nguHanh.</h4>
 public class Buoi4 {
