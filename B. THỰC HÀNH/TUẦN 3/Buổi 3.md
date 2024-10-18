@@ -17,7 +17,7 @@
 <ol>Mã sinh viên: 12345</ol>      
 <ol>Họ và tên: Nguyễn Văn An</ol>
 <ol>Ngày sinh: 20/10/1990</ol>
-<ol>Tuổi: 30</ol>
+<ol>Tuổi: 34</ol>
 <ol>Giới tính: Nam</ol>
 <ol>Lớp: IT24B</ol>
 <ol>Khoa: Công nghệ thông tin</ol>
