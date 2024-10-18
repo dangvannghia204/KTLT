@@ -14,13 +14,13 @@
 <h3>B. KẾT QUẢ THAM KHẢO</h3>
 -----THÔNG TIN SINH VIÊN-----
 <ol>Mã sinh viên: 12345</ol>      
-<span>Họ và tên: Nguyễn Văn An</span>
-Ngày sinh: 20/10/1990
-Tuổi: 30
-Giới tính: Nam
-Lớp: IT24B
-Khoa: Công nghệ thông tin
-Địa chỉ: Đà Nẵng
+<ol>Họ và tên: Nguyễn Văn An</ol>
+<ol>Ngày sinh: 20/10/1990</ol>
+<ol>Tuổi: 30</ol>
+<ol>Giới tính: Nam</ol>
+<ol>Lớp: IT24B</ol>
+<ol>Khoa: Công nghệ thông tin</ol>
+<ol>Địa chỉ: Đà Nẵng</ol>
 -----HẾT----- 
 <h3>C. HƯỚNG DẪN</h3>
 - Tạo dự án (project) với tên: HoTenSinhVien. Ví dụ: Sinh viên Nguyễn Văn An thì đặt tên dự án là NguyenVanAn
