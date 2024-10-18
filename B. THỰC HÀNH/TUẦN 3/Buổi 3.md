@@ -28,9 +28,9 @@
 <li>Tạo lớp (class) với tên: Tenmssv</li>
 <li>Tạo file với tên: Tenmssv.java</li>
 <b><em>Ví dụ: Sinh viên Nguyễn Văn An có ID 12345 thì đặt tên như sau:</em></b>
-<li>Tên dự án: <mark>NguyenVanAn</mark></li> 
-<li>Tên gói: <mark>buoi3</mark></li>
-<li>Tên lớp: <mark>An12345</mark></li>
-<li>Tên file: <mark>An12345.java</mark></li>
+<li>Tên dự án: <mark><i>NguyenVanAn</i></mark></li> 
+<li>Tên gói: <mark><i>buoi3</i></mark></li>
+<li>Tên lớp: <mark><i>An12345</i></mark></li>
+<li>Tên file: <mark><i>An12345.java</i></mark></li>
 <h1>-----HẾT-----</h1>
 
