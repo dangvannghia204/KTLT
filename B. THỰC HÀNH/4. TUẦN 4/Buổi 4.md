@@ -128,7 +128,7 @@ public class Buoi4 {
 
 <h2>B. NÂNG CAO</h2>
 <H3>Hãy code 4 bài tập nêu ở trên sử dụng thông qua vòng lặp (tham khảo nội dung nêu ở Chương 6 của tuần 8 từ slide 20).</h3>
-<H3>Hãy viết chương trình hiển thị các giá trị từ 1 đến n (với n nhập từ bàn phím, n là số nguyên).</h3>
+<H3>Hãy viết chương trình hiển thị các giá trị từ 1 đến n (với n nhập từ bàn phím, n là số nguyên. Ví dụ: nhập từ bàn phím số 5 thì hiển thị kết quả là: 1 2 3 4 5).</h3>
 <h1>-----HẾT-----<h1>
 
 
