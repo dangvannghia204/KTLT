@@ -1,4 +1,4 @@
-package buoi6;
+package buoi5;
 
 public class Bai5_2 {
     public static void viDu1() {
