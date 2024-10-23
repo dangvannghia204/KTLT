@@ -1,6 +1,6 @@
 <h1>YÊU CẦU</h1>
 <h3>Thông tin ban đầu và kiểu dữ liệu:</h3>
-String hoTen = "Nguyễn Văn An";
+<li>String hoTen = "Nguyễn Văn An";</li>
 String ngaySinh = "20/10/2006";
 String diemTongKet = "5.5";
 String tuoi = "18";
