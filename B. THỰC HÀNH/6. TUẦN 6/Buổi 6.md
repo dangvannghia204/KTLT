@@ -14,7 +14,7 @@
 <h3><i>Trường hợp 1</i></h3>
 <ol>-----THÔNG TIN SINH VIÊN-----</ol>
 <ol>Họ và tên: Nguyễn Văn An (String)</ol>
-<ol>Ngày sinh: 20/10/2006 (Date)</ol>
+<ol>Ngày sinh: 20/10/2006 (String)</ol>
 <ol>Điểm tổng kết: 5.5 (Float)</ol>
 <ol>Tuổi: 18 (Int)</ol>
 <ol>-----HẾT-----</ol>
