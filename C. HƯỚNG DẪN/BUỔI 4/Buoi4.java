@@ -1,4 +1,4 @@
-package buoi6;
+package buoi4;
 import java.util.Scanner;
 public class Buoi4 {
     public static void bai4_1() {
