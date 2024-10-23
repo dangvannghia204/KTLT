@@ -1,9 +1,15 @@
 <h1>YÊU CẦU</h1>
 <h3>Thông tin ban đầu và kiểu dữ liệu:</h3>
+<h3><i>Trường hợp 1</i></h3>
 <li>String hoTen = "Nguyễn Văn An";</li>
 <li>String ngaySinh = "20/10/2006";</li>
 <li>String diemTongKet = "5.5";</li>
 <li>String tuoi = "18";</li>
+<h3><i>Trường hợp 2</i></h3>
+<li>String hoTen = "Nguyễn Văn An";</li>
+<li>String ngaySinh = "20/10/2006";</li>
+<li>Float diemTongKet = 5.5f;</li>
+<li>int tuoi = 18;</li>
 <h3>Kết quả hiển thị và kiểu dữ liệu:</h3>
 <ol>-----THÔNG TIN SINH VIÊN-----</ol>
 <ol>Họ và tên: Nguyễn Văn An (String)</ol>
