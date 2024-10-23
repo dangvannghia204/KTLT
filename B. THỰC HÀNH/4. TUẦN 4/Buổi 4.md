@@ -130,9 +130,9 @@ public class Buoi4 {
 <H3>1. Hãy code 4 bài tập nêu ở trên sử dụng thông qua vòng lặp (tham khảo nội dung nêu ở Chương 6 của tuần 8 từ slide 20).</h3>
 <H3>2. Hãy viết chương trình hiển thị các giá trị từ 1 đến n (với n nhập từ bàn phím, n là số nguyên. Ví dụ: nhập từ bàn phím số 5 thì hiển thị kết quả là: 1 2 3 4 5).</h3>
 <H3>3. Hãy viết chương trình hiển thị các giá trị lẻ <= n (với n nhập từ bàn phím, n là số nguyên. Ví dụ: nhập từ bàn phím số 5 thì hiển thị kết quả là: 1  3  5).</h3>
-<H3>4. Hãy viết chương trình hiển thị các giá trị chẵn <= n (với n nhập từ bàn phím, n là số nguyên. Ví dụ: nhập từ bàn phím số 5 thì hiển thị kết quả là: 2  4).</h3>
+<H3>4. Hãy viết chương trình hiển thị các giá trị chẵn <= n (với n nhập từ bàn phím, n là số nguyên. Ví dụ: nhập từ bàn phím số 6 thì hiển thị kết quả là: 2  4  6).</h3>
 <H3>5. Hãy viết chương trình hiển thị các giá trị lẻ < n (với n nhập từ bàn phím, n là số nguyên. Ví dụ: nhập từ bàn phím số 5 thì hiển thị kết quả là: 1  3).</h3>
-<H3>6. Hãy viết chương trình hiển thị các giá trị chẵn < n (với n nhập từ bàn phím, n là số nguyên. Ví dụ: nhập từ bàn phím số 5 thì hiển thị kết quả là: 2  4).</h3>
+<H3>6. Hãy viết chương trình hiển thị các giá trị chẵn < n (với n nhập từ bàn phím, n là số nguyên. Ví dụ: nhập từ bàn phím số 6 thì hiển thị kết quả là: 2  4).</h3>
 <h1>-----HẾT-----<h1>
 
 
