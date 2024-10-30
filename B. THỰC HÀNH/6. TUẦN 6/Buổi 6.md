@@ -1,4 +1,4 @@
-<h1>YÊU CẦU</h1>
+<h1>NỘI DUNG | <a href="https://github.com/dangvannghia204/KTLT/blob/main/C.%20H%C6%AF%E1%BB%9ANG%20D%E1%BA%AAN/BU%E1%BB%94I%206/Buoi6.java">HƯỚNG DẪN</a></h1>
 <h3>Thông tin ban đầu và kiểu dữ liệu:</h3>
 <h3><i>Trường hợp 1</i></h3>
 <li>String hoTen = "Nguyễn Văn An";</li>
