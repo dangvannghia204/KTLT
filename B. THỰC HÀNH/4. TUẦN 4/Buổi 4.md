@@ -1,4 +1,4 @@
-<h1>NỘI DUNG & HƯỚNG DẪN</h1>
+<h1>NỘI DUNG & <a href="https://github.com/dangvannghia204/KTLT/blob/main/C.%20H%C6%AF%E1%BB%9ANG%20D%E1%BA%AAN/BU%E1%BB%94I%204/Buoi4.java">HƯỚNG DẪN</a></h1>
 <h2>A. CƠ BẢN</h2>
 <h3>Bài 4.1. Khai báo và khởi tạo mảng int arr[] = {3, 5, 8, 10, 14, 25}. Hãy viết chương trình hiển thị các phần tử của mảng arr.</h3>
 public class Buoi4 {
