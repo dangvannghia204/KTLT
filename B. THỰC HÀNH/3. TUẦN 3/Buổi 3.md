@@ -1,4 +1,4 @@
-<h1>NỘI DUNG</h1>
+<h1>NỘI DUNG | <a href="">HƯỚNG DẪN</a></h1>
 <h2>A. YÊU CẦU</h2>
 <h3>Viết chương trình hiển thị thông tin sinh viên gồm:</h3>
 <li>Mã sinh viên</li>
